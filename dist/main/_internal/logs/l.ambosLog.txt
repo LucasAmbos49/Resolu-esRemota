@@ -1,0 +1,12 @@
+l.ambos executou Abrindo janela de renomeação de perfil remoto em 2024-10-21 10:03
+l.ambos executou Iniciando renomeação de perfil remoto em 2024-10-21 10:03
+l.ambos executou Renomeação de perfil executada em w0375696 para o usuário fcaspar em 2024-10-21 10:03
+l.ambos executou Abrindo janela de transferência de arquivos/pastas em 2024-10-21 10:03
+l.ambos executou Iniciando transferência de 'D:/meu D/Webex.msi' para w0375696 em 2024-10-21 10:03
+l.ambos executou Transferência de 'D:/meu D/Webex.msi' para w0375696 concluída com sucesso em 2024-10-21 10:04
+l.ambos executou Abrindo janela de atualização de políticas de grupo em 2024-10-21 10:04
+l.ambos atualizou as políticas do computador w0375696 em 2024-10-21 10:05
+l.ambos executou Abrindo janela de instalação de programa remoto em 2024-10-21 10:05
+l.ambos instalou o programa setup-WinFF-x86-x64.exe na máquina w0375696 em 2024-10-21 10:05
+l.ambos executou Abrindo janela de instalação de programa remoto em 2024-10-23 01:19
+l.ambos instalou o programa setup-WinFF-x86-x64.exe na máquina w0470711 em 2024-10-23 01:20

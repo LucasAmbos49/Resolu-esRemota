@@ -1,0 +1,104 @@
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-16 20:40
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-16 20:40
+g.hsilva executou Iniciando transferência de 'D:/meu D/net.properties' para w0380461 em 2024-10-16 20:40
+g.hsilva executou Transferência de 'D:/meu D/net.properties' para w0380461 concluída com sucesso em 2024-10-16 20:40
+g.hsilva executou Abrindo janela de atualização de políticas de grupo em 2024-10-16 20:40
+g.hsilva executou Atualização de políticas de grupo remotamente iniciada em 2024-10-16 20:40
+g.hsilva executou Políticas atualizadas com sucesso em w0380461 em 2024-10-16 20:41
+g.hsilva executou Abrindo janela de renomeação de perfil remoto em 2024-10-16 20:41
+g.hsilva executou Iniciando renomeação de perfil remoto em 2024-10-16 20:42
+g.hsilva executou Renomeação de perfil executada em w0467402 para o usuário f.matos em 2024-10-16 20:43
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-16 20:43
+g.hsilva executou Abrindo janela de renomeação de perfil remoto em 2024-10-17 13:58
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-17 13:58
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-17 13:58
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-17 13:58
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-17 13:59
+g.hsilva executou Abrindo janela de renomeação de perfil remoto em 2024-10-17 15:43
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-17 15:43
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-17 15:44
+g.hsilva executou Iniciando transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0534984 em 2024-10-17 15:44
+g.hsilva executou Transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0534984 concluída com sucesso em 2024-10-17 15:45
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-17 15:50
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-17 17:52
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-17 20:26
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-17 21:13
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-17 21:44
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-17 21:44
+g.hsilva executou Cache do Chrome limpo remotamente com sucesso em 2024-10-17 21:44
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-17 21:49
+g.hsilva executou Cache do Chrome limpo remotamente com sucesso em 2024-10-17 21:49
+g.hsilva executou Abrindo janela de renomeação de perfil remoto em 2024-10-17 21:51
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-17 21:51
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-17 21:51
+g.hsilva executou Abrindo janela de atualização de políticas de grupo em 2024-10-17 21:51
+g.hsilva executou Atualização de políticas de grupo remotamente iniciada em 2024-10-17 21:51
+g.hsilva executou Abrindo janela de atualização de políticas de grupo em 2024-10-17 21:51
+g.hsilva executou Atualização de políticas de grupo remotamente iniciada em 2024-10-17 21:51
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-17 21:51
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-17 21:56
+g.hsilva executou Cache do Chrome limpo remotamente com sucesso em 2024-10-17 21:57
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-18 13:06
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 13:06
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 13:58
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 13:58
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 14:02
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-18 15:16
+g.hsilva executou Iniciando transferência de 'S:/Apps/Themis2G.pa' para w0534562 em 2024-10-18 15:17
+g.hsilva executou Transferência de 'S:/Apps/Themis2G.pa' para w0534562 concluída com sucesso em 2024-10-18 15:17
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 16:00
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 16:56
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-18 17:19
+g.hsilva executou Iniciando transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0534448 em 2024-10-18 17:20
+g.hsilva executou Transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0534448 concluída com sucesso em 2024-10-18 17:21
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-18 18:22
+g.hsilva executou Iniciando transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn/Instalador Kyocera 3655' para w0381406 em 2024-10-18 18:22
+g.hsilva executou Transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn/Instalador Kyocera 3655' para w0381406 concluída com sucesso em 2024-10-18 18:23
+g.hsilva executou Iniciando transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn/Instalador Kyocera 3655' para w0380181 em 2024-10-18 18:23
+g.hsilva executou Transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn/Instalador Kyocera 3655' para w0380181 concluída com sucesso em 2024-10-18 18:24
+g.hsilva executou Iniciando transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0380288 em 2024-10-18 18:29
+g.hsilva executou Transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0380288 concluída com sucesso em 2024-10-18 18:31
+g.hsilva executou Iniciando transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0380348 em 2024-10-18 18:31
+g.hsilva executou Erro na transferência de 'S:/DRIVERS/Impressora/Selbetti/Kyocera M3655idn' para w0380348: [WinError 53] O caminho da rede não foi encontrado: '\\\\w0380348\\D$\\' em 2024-10-18 18:33
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 19:24
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 19:28
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 19:29
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 19:29
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 19:37
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 19:48
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 19:50
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 20:02
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 20:14
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 20:20
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 20:24
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 20:51
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 21:13
+g.hsilva executou Abrindo janela de renomeação de perfil remoto em 2024-10-18 23:13
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-18 23:13
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-18 23:13
+g.hsilva executou Abrindo janela de atualização de políticas de grupo em 2024-10-18 23:13
+g.hsilva executou Atualização de políticas de grupo remotamente iniciada em 2024-10-18 23:13
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-18 23:13
+g.hsilva executou Abrindo janela de renomeação de perfil remoto em 2024-10-21 19:29
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-21 19:29
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-21 19:30
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-21 19:30
+g.hsilva executou Abrindo janela de limpeza de cache remoto em 2024-10-21 19:30
+g.hsilva executou Abrindo janela de atualização de políticas de grupo em 2024-10-21 19:30
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-21 19:30
+g.hsilva instalou o programa setup-WinFF-x86-x64.exe na máquina w0470711 em 2024-10-21 19:34
+g.hsilva executou Abrindo janela de renomeação de perfil remoto em 2024-10-21 19:34
+g.hsilva executou Abrindo janela de transferência de arquivos/pastas em 2024-10-21 19:34
+g.hsilva executou Iniciando transferência de 'D:/meu D/pdfsam-5.2.4.msi' para w0470711 em 2024-10-21 19:34
+g.hsilva executou Transferência de 'D:/meu D/pdfsam-5.2.4.msi' para w0470711 concluída com sucesso em 2024-10-21 19:34
+g.hsilva executou Iniciando transferência de 'D:/meu D/pjeoffice-pro-v2.5.13u-windows_x32.exe' para w0470711 em 2024-10-21 19:34
+g.hsilva executou Transferência de 'D:/meu D/pjeoffice-pro-v2.5.13u-windows_x32.exe' para w0470711 concluída com sucesso em 2024-10-21 19:35
+g.hsilva executou Iniciando transferência de 'D:/meu D/pdfsam-5.2.4.msi' para w0470711 em 2024-10-21 19:35
+g.hsilva executou Transferência de 'D:/meu D/pdfsam-5.2.4.msi' para w0470711 concluída com sucesso em 2024-10-21 19:35
+g.hsilva executou Iniciando transferência de 'D:/meu D/pjeoffice-pro-v2.5.13u-windows_x32.exe' para w0470711 em 2024-10-21 19:35
+g.hsilva executou Transferência de 'D:/meu D/pjeoffice-pro-v2.5.13u-windows_x32.exe' para w0470711 concluída com sucesso em 2024-10-21 19:35
+g.hsilva executou Iniciando transferência de 'D:/meu D/BanrisulCSP' para w0470711 em 2024-10-21 19:35
+g.hsilva executou Transferência de 'D:/meu D/BanrisulCSP' para w0470711 concluída com sucesso em 2024-10-21 19:35
+g.hsilva executou Iniciando transferência de 'D:/meu D/BanrisulCSP' para w0470711 em 2024-10-21 19:35
+g.hsilva executou Erro na transferência de 'D:/meu D/BanrisulCSP' para w0470711: [WinError 183] Não é possível criar um arquivo já existente: '\\\\w0470711\\D$\\BanrisulCSP' em 2024-10-21 19:36
+g.hsilva executou Abrindo janela de instalação de programa remoto em 2024-10-21 19:36
